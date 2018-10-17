@@ -1,5 +1,11 @@
 # DCGAN Anime Generation
-Tried out vanilla GAN and LSGAN for anime generation using DCGAN structure.
+- Tried out vanilla GAN and LSGAN for anime generation using DCGAN structure.
+- Collected our own dataset (scraped images from a online manga store)
+
+|Given dataset|Our own dataset|
+|-------------|---------------|
+|![](./img_src/given.png)|![](./img_src/self.png)|
+
 
 ## Training process
 - Used original DCGAN paper settings.
